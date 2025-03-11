@@ -1,6 +1,6 @@
 # Profile
 
-### João Paul
+### João Paulo
 
 ~~~
 Java
